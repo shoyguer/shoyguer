@@ -20,6 +20,8 @@
   <img src="https://i.imgur.com/WpEKwDS.png" alt="Firebase"width="40" height="40"/>
   <img src="https://i.imgur.com/WrpE0Hq.png" alt="Git"width="40" height="40"/>
   <img src="https://i.imgur.com/qSep4FW.png" alt="Salesforce"width="40" height="40"/>
+  <img src="https://i.imgur.com/ZOiI37D.png" alt="Windows" width="40" height="40"/>
+  <img src="https://i.imgur.com/Zf5fx2U.png" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
@@ -35,14 +37,6 @@
   <img src="https://i.imgur.com/mbyk8os.png" alt="Figma" title="Figma" height="40"/>
   <img src="https://freelogopng.com/images/all_img/1656733807canva-icon-png.png" alt="Canva" title="Canva" width="40" height="40"/>
   <img src="https://i.imgur.com/xB9hgm5.png" alt="Blender" title="Blender" width="40" height="40"/>
-</p>
-
----
-
-### 🖥️ Operating Systems
-<p>
-  <img src="https://i.imgur.com/ZOiI37D.png" alt="Windows" width="40" height="40"/>
-  <img src="https://i.imgur.com/Zf5fx2U.png" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
