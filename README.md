@@ -4,67 +4,45 @@ Welcome to my GitHub profile!
 
 🎮 **Game Designer & Developer** | 💻 **Programmer** | 🎨 **Designer** |
 
-<br>
+---
 
-### 🎮 Game Development
+### 💻 Technologies
 <p>
-  <a href="https://godotengine.org/" target="_blank">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/godot-game-engine-icon.png" alt="Godot" title="Godot" width="40" height="40"/>
-  </a>
-  <a href="https://godotengine.org/" target="_blank">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/godot-game-engine-icon.png" alt="Godot" title="Godot" width="40" height="40"/>
-  </a>
+  <img src="https://i.imgur.com/0aomlXJ.png" alt="Godot" title="Godot" width="40" height="40"/>
+  <img src="https://i.imgur.com/4efpJYd.png" alt="Game Maker" title="Game Maker" width="40" height="40"/>
+  <img src="https://i.imgur.com/Hbviqe4.png" alt="C#" width="40" height="40"/>
+  <img src="https://i.imgur.com/wGW9ukj.png" alt="Java"width="40" height="40"/>
+  <img src="https://i.imgur.com/eAk5RZz.png" alt="Python"width="40" height="40"/>
+  <img src="https://i.imgur.com/WZGmEx0.png" alt="HTML5"width="40" height="40"/>
+  <img src="https://i.imgur.com/Am7lFzR.png" alt="CSS3"width="40" height="40"/>
+  <img src="https://i.imgur.com/6vBLGTJ.png" alt="MySQL"width="40" height="40"/>
+  <img src="https://i.imgur.com/TS9k8Nf.png" alt="JavaScript"width="40" height="40"/>
+  <img src="https://i.imgur.com/6w5C9tu.png" alt="Android Studio"width="40" height="40"/>
+  <img src="https://i.imgur.com/WpEKwDS.png" alt="Firebase"width="40" height="40"/>
+  <img src="https://i.imgur.com/WrpE0Hq.png" alt="Git"width="40" height="40"/>
+  <img src="https://i.imgur.com/qSep4FW.png" alt="Salesforce"width="40" height="40"/>
 </p>
 
 ---
 
 ### 🎨 Design Tools
 <p>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" alt="Photoshop" title="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" alt="Illustrator" title="Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/indesign.html" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968482.png" alt="InDesign" title="InDesign" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968428.png" alt="After Effects" title="After Effects" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/9814/9814226.png" alt="Premiere" title="Premiere" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/media-encoder.html" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968489.png" alt="Media Encoder" title="Media Encoder" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://freelogopng.com/images/all_img/1656733807canva-icon-png.png" alt="Canva" title="Canva" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" alt="Photoshop" title="Photoshop" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" alt="Illustrator" title="Illustrator" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968482.png" alt="InDesign" title="InDesign" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968428.png" alt="After Effects" title="After Effects" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/9814/9814226.png" alt="Premiere" title="Premiere" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968489.png" alt="Media Encoder" title="Media Encoder" width="40" height="40"/>
+  <img src="https://i.imgur.com/mbyk8os.png" alt="Figma" title="Figma" height="40"/>
+  <img src="https://freelogopng.com/images/all_img/1656733807canva-icon-png.png" alt="Canva" title="Canva" width="40" height="40"/>
 </p>
 
 ---
 
 ### 🖥️ Operating Systems
 <p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux"/>
+  <img src="https://i.imgur.com/ZOiI37D.png" alt="Windows" width="40" height="40"/>
+  <img src="https://i.imgur.com/Zf5fx2U.png" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
@@ -79,10 +57,10 @@ Welcome to my GitHub profile!
 ## 🌐 **Socials**
 <p>
   <a href="https://www.linkedin.com/in/lucasfeli74/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn"  width="40" height="40"/>
   </a>
   <a href="https://shoyguer.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
+    <img src="https://static.itch.io/images/itchio-textless-white.svg" alt="Itch.io" width="40" height="40"/>
   </a>
 </p>
 
