@@ -1,8 +1,7 @@
-# Hi there! I'm Lucas "Shoyguer" Melo 👋
-A passionate game developer who loves creating fun and interactive worlds and experiences!
-Welcome to my GitHub profile!
+![header](https://capsule-render.vercel.app/api?type=venom&height=250&color=e81a1a&text=Game%20Designer&section=header&fontColor=d7d7d7&reversal=false&textBg=false&animation=twinkling&strokeWidth=0&fontSize=50&fontAlignY=50)
 
-🎮 **Game Designer & Developer** | 💻 **Programmer** | 🎨 **Designer** |
+<h2 align="center"> Hey! I'm Lucas "Shoyguer" Melo</h2>
+<p align="center"> 🎮 <b>Game Designer & Developer</b> | 💻 <b>Programmer</b> | 🎨 <b>Designer</b> | </p>
 
 ---
 
@@ -35,6 +34,7 @@ Welcome to my GitHub profile!
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968489.png" alt="Media Encoder" title="Media Encoder" width="40" height="40"/>
   <img src="https://i.imgur.com/mbyk8os.png" alt="Figma" title="Figma" height="40"/>
   <img src="https://freelogopng.com/images/all_img/1656733807canva-icon-png.png" alt="Canva" title="Canva" width="40" height="40"/>
+  <img src="https://i.imgur.com/xB9hgm5.png" alt="Blender" title="Blender" width="40" height="40"/>
 </p>
 
 ---
