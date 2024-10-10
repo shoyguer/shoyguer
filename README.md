@@ -26,7 +26,7 @@
 
 ---
 
-### 🎨 Design Tools
+### 🎨 Art Tools
 <p>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" alt="Photoshop" title="Photoshop" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" alt="Illustrator" title="Illustrator" width="40" height="40"/>
