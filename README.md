@@ -6,7 +6,7 @@
 ---
 
 ### 💻 Technologies
-<p>
+<div>
   <a href="https://godotengine.org/" target="_blank">
     <img src="https://i.imgur.com/0aomlXJ.png" alt="Godot" title="Godot" width="40" height="40"/>
   </a>
@@ -67,12 +67,12 @@
     <img src="https://i.imgur.com/Zf5fx2U.png" alt="Linux" title="Linux" width="40" height="40"/>
   </a>
   
-</p>
+</div>
 
 ---
 
 ### 🎨 Art Tools
-<p>
+<div>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" alt="Photoshop" title="Photoshop" width="40" height="40"/>
   </a>
@@ -109,7 +109,7 @@
     <img src="https://i.imgur.com/xB9hgm5.png" alt="Blender" title="Blender" width="40" height="40"/>
   </a>
   
-</p>
+</div>
 
 ---
 
@@ -121,14 +121,15 @@
 </p>
 
 ## 🌐 **Socials**
-<p>
+<div>
   <a href="https://www.linkedin.com/in/lucasfeli74/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn"  width="40" height="40"/>
   </a>
+  
   <a href="https://shoyguer.itch.io/" target="_blank">
     <img src="https://static.itch.io/images/itchio-textless-white.svg" alt="Itch.io" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 <br>
 
