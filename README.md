@@ -113,13 +113,6 @@
 
 ---
 
-## 🌍 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Portuguese-Native-3b82f6?style=for-the-badge&label=Portuguese&logo=flag&logoColor=white" alt="Portuguese Native"/>
-  <img src="https://img.shields.io/badge/English-Fluent-ff4b4b?style=for-the-badge&label=English&logo=flag&logoColor=white" alt="English Fluent"/>
-  <img src="https://img.shields.io/badge/Spanish-Intermediate-f59e0b?style=for-the-badge&label=Spanish&logo=flag&logoColor=white" alt="Spanish Intermediate"/>
-</p>
-
 ## 🌐 **Socials**
 <div>
   <a href="https://www.linkedin.com/in/lucasfeli74/" target="_blank">
