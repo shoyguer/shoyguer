@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=250&color=e81a1a&text=Game%20Designer&section=header&fontColor=e5e5e5&reversal=false&textBg=false&animation=fadeIn&strokeWidth=0&fontSize=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=e81a1a&text=Game%20Designer&reversal=false&section=header&fontColor=e5e5e5&animation=fadeIn)
 
 <h2 align="center"> Hey! I'm Lucas "Shoyguer" Melo</h2>
 <p align="center"> 🎮 <b>Game Designer & Developer</b> | 💻 <b>Developer</b> | 🎨 <b>Digital Designer</b></p>
