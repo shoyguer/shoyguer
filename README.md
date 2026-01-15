@@ -60,25 +60,6 @@
 </div>
 
 <br>
-<hr>
-<br>
-
-<h3 align="center">GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoyguer&show_icons=true&include_all_commits=true&bg_color=232323&title_color=e81a1a&text_color=ffffff&icon_color=e81a1a&border_color=e81a1a&ring_color=e81a1a&hide_border=true" alt="Shoyguer's GitHub Stats" />
-  <br>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoyguer/shoyguer.com/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoyguer/shoyguer.com/output/github-contribution-grid-snake.svg" />
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/shoyguer/shoyguer.com/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br>
-<hr>
-<br>
 
 <h3 align="center">Socials</h3>
 
