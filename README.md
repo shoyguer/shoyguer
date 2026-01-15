@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=e81a1a&text=Game%20Designer&reversal=false&section=header&fontColor=e5e5e5&animation=fadeIn)
+
 <div align="center">
   
   <h1 style="color: #ffffff;">Lucas "<span style="color: #e81a1a;">Shoyguer</span>" Melo</h1>
