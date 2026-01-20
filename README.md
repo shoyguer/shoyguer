@@ -58,6 +58,7 @@
 | <img src="https://shoyguer.com/media/plugins/seed.webp" width="45"> | [seed](https://github.com/shoyguer/seed) | Godot Plugin for handling Seed generation easily. Focused on optimization. |
 | <img src="https://shoyguer.com/media/plugins/time_tick.webp" width="45"> | [time-tick](https://github.com/shoyguer/time-tick) | Godot Plugin for handling tick system, and time system with custom simple and complex time units, and hierarchies. |
 | <img src="https://shoyguer.com/media/plugins/advanced_button.webp" width="45"> | [advanced-button](https://github.com/shoyguer/advanced-button) | Godot plugin giving you a complete and customizable button, with easy to use label, texture, stylebox and modulation, with interaction implemented out-of-the-box. |
+| <img src="https://shoyguer.com/media/plugins/big_number.webp" width="45"> | [big-number](https://github.com/shoyguer/big-number) | Godot Plugin for handling HUGE numbers, focused on optimization. |
 
 </div>
 
